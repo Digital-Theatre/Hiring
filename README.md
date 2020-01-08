@@ -2,7 +2,10 @@
 
 ## Who are we?
 
-We're the organisation that delivered a a 35% improvement in exam grades and 36% increase in student employability within the arts industry as a result of our product and content.
+We're the organisation that delivered a a 35% improvement in exam grades and 36% increase in student employability within the arts industry as a result of our product and content.  
+
+Founded in 2009, Digital Theatre+ is the world’s leading arts education resource, already used by over 3 million students in
+over 2000 schools, colleges and universities in 85 countries around the world. 
 
 Our team is made up of a range of experts with high level professional experience in theatre, education and technology.
 
@@ -14,7 +17,7 @@ Our aim is to offer a vibrant, relevant and inspiring theatre arts experience th
 
 We're looking for two web developers to form the core of a team that will help us build the next generation of products for Digital Theatre+.   
 
-We need to find people with a mix of front-end, back-end and platform experience who are positive, self-directed and keen to learn.  We need people with a passion for developing fast, secure, well designed, highly usable and accessible products.  
+We need to find people with a mix of front-end, back-end and platform experience who are positive, self-directed and keen to learn.  We like people with a passion for developing fast, secure, well designed, highly usable and accessible products.  
 
 This is an opportunity to 'get in on the ground floor' of something new, that will help teachers and students around the world with their learning.  We're growing fast and our energetic, pro-active and positive Sales Team more doubled in size over the past 12 months, including opening of offices in Manchester and Chicago.
 
@@ -80,3 +83,8 @@ If you feel that you would contribute to our business, love getting hands on wit
 * Enhanced maternity/paternity leave 
 * Pension (statutory)
 * Socials committee: End of year retrospective and culture-building event, pub quizzes, karaoke, breakfasts
+
+## Further reading about us
+
+1. https://www.digitaltheatreplus.com/education/about-us
+2. https://www.youtube.com/channel/UC4hrdEn3AVOsW2qATXOleRQ
