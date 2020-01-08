@@ -32,12 +32,15 @@ Some of the things we've already decided are:
 6. VSCode
 7. Open source
 8. Apple MacBook Pro
+9. Google Analytics and Data Studio
 
 Beyond this we want you to be part of the decision making about how and what we use to deliver the new website.
 
 Things we're leaning towards:
 
 1. Cognito for user authentication
+2. Braintree for payments and subscription management
+3. AWS Media Services for video transcoding, distribution and playback
 
 Still to be decided:
 
