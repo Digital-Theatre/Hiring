@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-We're the organisation that delivered a R35% improvement in exam grades and 36% increase in student employability within the arts industry as a result of our product and content.  
+We're the organisation that delivered a 35% improvement in exam grades and 36% increase in student employability within the arts industry as a result of our product and content.  
 
 Founded in 2009, Digital Theatre+ is the world’s leading arts education resource, already used by over 3 million students in
 over 2000 schools, colleges and universities in 85 countries around the world. 
