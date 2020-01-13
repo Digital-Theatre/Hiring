@@ -88,3 +88,7 @@ If you feel that you would contribute to our business, love getting hands on wit
 
 1. https://www.digitaltheatreplus.com/education/about-us
 2. https://www.youtube.com/channel/UC4hrdEn3AVOsW2qATXOleRQ
+
+## Apply via LinkedIn
+
+https://www.linkedin.com/jobs/cap/view/1687587957/
