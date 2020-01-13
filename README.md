@@ -69,7 +69,7 @@ If you feel that you would contribute to our business, love getting hands on wit
 
 * We care about your health, wellbeing and personal growth.
 * We're passionate about making teachers and students experts in their subjects with the support of our material.
-* We have a highly knowledgeable and respected Content and Publishing team with Strong partnerships with all exam boards, key industry stakeholders and major arts organisations.
+* We have a highly knowledgeable and respected Content and Publishing team with strong partnerships with all exam boards, key industry stakeholders and major arts organisations.
 * We operate a flat-ish organisation where every voice can be heard and all ideas are considered.
 
 ## What do we offer
