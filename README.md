@@ -53,8 +53,7 @@ Still to be decided:
 3. Our coding standards
 4. Our development process and how we test
 5. Whether to make an SPA
-6. GraphQL / Rest / Both
-7. Should we use AWS Amplify
+6. Should we use AWS Amplify
 
 And dozens of other decisions, both big and small.
 
