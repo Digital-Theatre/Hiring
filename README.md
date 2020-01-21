@@ -42,9 +42,10 @@ Beyond this we want you to be part of the decision making about how and what we 
 
 Things we're leaning towards:
 
-1. Cognito for user authentication
+1. Cognito for user authentication including SAML
 2. Braintree for payments and subscription management
 3. AWS Media Services for video transcoding, distribution and playback
+4. Static site generation
 
 Still to be decided:
 
