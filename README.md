@@ -36,6 +36,7 @@ Some of the things we've already decided are:
 7. Open source
 8. Apple MacBook Pro
 9. Google Analytics and Data Studio
+10. GraphQL CMS
 
 Beyond this we want you to be part of the decision making about how and what we use to deliver the new website.
 
