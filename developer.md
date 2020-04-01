@@ -1,4 +1,4 @@
-# Opportunity for two web developers to join Digital Theatre+
+# Opportunity for two developers to join Digital Theatre+
 
 ## Who are we?
 
@@ -17,48 +17,33 @@ Responsible for building and operating Digital Theatre+ our team currently compr
 
 ## Who are we looking for?
 
-We're looking for two web developers to form the core of a team that will help us build the next generation of products for Digital Theatre+.   
+We're looking for two developers to form the core of a team that will help us build the next generation of products for Digital Theatre+.   
 
 We need to find people with a mix of front-end, back-end and platform experience who are positive, self-directed and keen to learn.  We like people with a passion for developing fast, secure, well designed, highly usable and accessible products.  
 
 This is an opportunity to 'get in on the ground floor' of something new, that will help teachers and students around the world with their learning.  We're growing fast and our energetic, pro-active and positive Sales Team more doubled in size over the past 12 months, including opening of offices in Manchester and Chicago.
 
-We've identified what we need to build, and are currently engaging an agency to design the product, so we need to get ready to build it.  Our current technology stack is a tightly-coupled Drupal 7 CMS and website, which lacks the flexibility we need.
+We've identified what we need to build, and are currently engaged with a product design agency to wireframe and design the product, so we are already starting to build it.  
+
+Our current technology stack is a tightly-coupled Drupal 7 CMS and website, which lacks the flexibility we need.
 
 ## What's involved?
 
 Some of the things we've already decided are: 
 
-1. AWS
-2. GitHub - using actions for CI/CD
-3. Serverless framework
-4. TypeScript/JavaScript
-5. UI Components
-6. VSCode
-7. Open source
-8. Apple MacBook Pro
-9. Google Analytics and Data Studio
-10. GraphQL CMS
-
-Beyond this we want you to be part of the decision making about how and what we use to deliver the new website.
-
-Things we're leaning towards:
-
-1. Cognito for user authentication including SAML
-2. Braintree for payments and subscription management
-3. AWS Media Services for video transcoding, distribution and playback
-4. Static site generation
-
-Still to be decided:
-
-1. Our data model
-2. Whether we continue to use our current Drupal CMS or move to something else
-3. Our coding standards
-4. Our development process and how we test
-5. Whether to make an SPA
-6. Should we use AWS Amplify
-
-And dozens of other decisions, both big and small.
+1. Blazingly fast Responsive Website with excellent accessibility
+1. TypeScript
+1. React + Next.js on Lambda for SSR
+1. Tailwind
+1. AWS IAM, Lamba (using Serverless framework), Cognito, Cloudwatch
+1. GitHub - using Actions for CI/CD
+1. VSCode
+1. Open source
+1. Apple MacBook Pro
+1. Google Analytics and Data Studio
+1. GraphQL Headless CMS
+1. AWS Media Services for AWS Media Services for video transcoding, distribution and playback
+1. Pairing and learning as the primary way of working
 
 You'll be reporting directly into the Director of Technology, who will support and help you with whatever you need, whether it's hands on, decision making or direction.
 
