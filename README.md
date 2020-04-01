@@ -1,4 +1,4 @@
 # Opportunities to join Digital Theatre+
 
-* [Two developers](developer.md)
+* [Two Developers](developer.md)
 * [Technical Business Analyst](technical-business-analyst.md)
