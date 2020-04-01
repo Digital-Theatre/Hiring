@@ -17,7 +17,7 @@ Responsible for building and operating Digital Theatre+ our team currently compr
 
 ## Who are we looking for?
 
-We're looking for two developers to form the core of a team that will help us build the next generation of products for Digital Theatre+.   
+We're looking for two developers to form the core of a team that will help us build the next generation of products for Digital Theatre+. 
 
 We need to find people with a mix of front-end, back-end and platform experience who are positive, self-directed and keen to learn.  We like people with a passion for developing fast, secure, well designed, highly usable and accessible products.  
 
