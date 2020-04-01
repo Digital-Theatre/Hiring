@@ -1,6 +1,6 @@
 # Opportunity for a technical business analyst to join Digital Theatre+
 
-Our fast growing technology team now needs the support of a permament technical business analyst.
+Our fast growing technology team now needs the support of a permament technical business analyst.  We recently hired two web developers, expanding our team to three.  We're currently hiring for two additional developers and the technical business analyst with intent to be a six person strong team within 2-3 months.
 
 ## Who are we looking for
 
@@ -10,12 +10,38 @@ We need to find someone who really loves working with people including customers
 
 The person we're looking for will love working with technology, data and people and be enthusiastic about the Digital Theatre+ to bring arts to the world through education.
 
+## What's involved
+
+* Providing information to make decisions on priority, investment in building digital products and systems
+* Building a clear understanding of goals based on facts and data
+* Establishing and analysing data models and identifying options to achieve goals
+* Ensuring that people, process and technology are all considered
+* Interviewing and running workshops with technical and non-technical people
+* Creating documentation to support both change and ongoing operation
+* Working closely with technical team members to minimise scope and complexity
+* Taking part in testing and validation activities
+* Building reports to monitor ongoing success
+
+### What technology is being used
+
+Any prior experience of working with teams building on the following tech stack will be beneficial however it is not essential to have used these specific tools.
+
+1. Responsive Websites, Progressive Web Apps and Accessibility
+1. React + Next.js using TypeScript
+1. Serverless Framework
+1. AWS IAM, Lambda, Cloudwatch, Cognito
+1. Headless Content Management Systems
+1. GraphQL + REST API
+1. Google Docs/Sheets/Forms including App Script
+1. Google Analytics and Data Studio
+1. HubSpot CRM
+
 ## What's it like working with us
 
-* We care about your health, wellbeing and personal growth.
-* We're passionate about making teachers and students experts in their subjects with the support of our material.
-* We have a highly knowledgeable and respected Content and Publishing team with strong partnerships with all exam boards, key industry stakeholders and major arts organisations.
-* We operate a flat-ish organisation where every voice can be heard and all ideas are considered.
+* We care about your health, wellbeing and personal growth
+* We're passionate about making teachers and students experts in their subjects with the support of our material
+* We have a highly knowledgeable and respected Content and Publishing team with strong partnerships with all exam boards, key industry stakeholders and major arts organisations
+* We operate a flat-ish organisation where every voice can be heard and all ideas are considered
 
 ## What do we offer
 
